@@ -1,9 +1,12 @@
 # READ BEFORE INSTALLING
+Install the app: [App](https://github.com/HelloMyNameIsCoolioHoolio/video-compression-app/releases)
+
 YOU MUST HAVE FFMPEG AND JAVA INSTALLED, IF NOT INSTALL THEM FROM HERE:
 
 [FFMPEG](https://github.com/BtbN/FFmpeg-Builds/releases)
 
 [JAVA](https://www.java.com/en/)
+
 
 STEPS FOR FFMPEG:
 
