@@ -1,4 +1,4 @@
-#READ BEFORE INSTALLING
+# READ BEFORE INSTALLING
 YOU MUST HAVE FFMPEG AND JAVA INSTALLED, IF NOT INSTALL THEM FROM HERE:
 [FFMPEG](https://github.com/BtbN/FFmpeg-Builds/releases)
 [JAVA](https://www.java.com/en/)
